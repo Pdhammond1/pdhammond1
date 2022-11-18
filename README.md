@@ -17,6 +17,10 @@
   
 </p>
 
+<a href="https://github.com/Xlient/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xlient&show_icons=true&theme=material-palenight" />
+</a>
+
 
 <!--
 **Pdhammond1/pdhammond1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
