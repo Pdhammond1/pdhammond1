@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  👨🏻‍💻 An up and coming software developer from Georgia.
+  👨🏻‍💻 An up and coming Software Developer from Georgia.
 </p>
 
 <p align='center'>
