@@ -17,9 +17,12 @@
   
 </p>
 
-<a href="https://github.com/Pdhammond1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdhammond1&layout=compact&theme=material-palenight" />
+<p align='center'>
+  <a href="https://github.com/Pdhammond1">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdhammond1&layout=compact&theme=material-palenight" />
 </a>
+  
+</p>
 
 <img src="https://github.com/Pdhammond1/pdhammond1/blob/main/root/octocat-1668801457800.png">
 
