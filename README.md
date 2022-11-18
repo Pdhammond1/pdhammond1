@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-  You can connect with me here!
+  🔗 You can connect with me here!
 </p>
 
 <p align='center'>
