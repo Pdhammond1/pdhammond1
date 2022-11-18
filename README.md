@@ -1,6 +1,20 @@
-### Hi there 👋
+h1 align='center'>
+  Hello world 👋 I'm Pierce 
+</h1>
 
-<a href="https://www.linkedin.com/in/pdhammond/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align='center'>
+  A developer from Georgia.
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/pdhammond/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+
 
 <!--
 **Pdhammond1/pdhammond1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
