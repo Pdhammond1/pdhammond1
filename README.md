@@ -7,6 +7,10 @@
 </p>
 
 <p align='center'>
+  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+</p>
+
+<p align='center'>
   You can connect with me here!
 </p>
 
@@ -14,14 +18,12 @@
   <a href="https://www.linkedin.com/in/pdhammond/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
 </p>
 
 <p align='center'>
   <a href="https://github.com/Pdhammond1">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdhammond1&layout=compact&theme=material-palenight" />
 </a>
-  
 </p>
 
 <img src="https://github.com/Pdhammond1/pdhammond1/blob/main/root/octocat-1668801457800.png">
