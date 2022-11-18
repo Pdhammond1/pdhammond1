@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='pdhammond@dons.usfca.edu'>pdhammond@dons.usfca.edu</a>
+  📫 How to reach me: <a href='mailto:pdhammond@dons.usfca.edu'>pdhammond@dons.usfca.edu</a>
 </p>
 
 <p align='center'>
