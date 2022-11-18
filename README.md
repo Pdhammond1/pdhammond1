@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Connect with me on LinkedIn!!
-<a href="https://www.linkedin.com/in/pdhammond/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</n a href="https://www.linkedin.com/in/pdhammond/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!--
 **Pdhammond1/pdhammond1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
