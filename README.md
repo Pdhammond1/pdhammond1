@@ -17,6 +17,12 @@
   
 </p>
 
+<a href="https://github.com/Xlient">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pdhammond1&theme=material-palenight" />
+</a>
+<a href="https://github.com/Xlient">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdhammond1&layout=compact&theme=material-palenight" />
+</a>
 <a href="https://github.com/pdhammond1/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdhammond1&show_icons=true&theme=material-palenight" />
 </a>
