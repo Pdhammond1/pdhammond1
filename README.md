@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdhammond1&layout=compact&theme=material-palenight" />
 </a>
 
-<img src="https://github.com/hkaur008/hkaur008/blob/main/root/screen-capture%20(5) (1).gif"/>
+<img src="https://github.com/Pdhammond1/pdhammond1/blob/main/root/octocat-1668801457800.png">
 
 <!--
 **Pdhammond1/pdhammond1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
